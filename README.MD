@@ -1,1 +1,2 @@
-![Bonnier Nilss Rodrigo Mamani Vargas](.\CapturadeDBeaver.png)
+# Bonnier Nilss Rodrigo Mamani Vargas
+![screenshoot](.\CapturadeDBeaver.png)
