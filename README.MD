@@ -1,3 +1,3 @@
 # Bonnier Nilss Rodrigo Mamani Vargas
 
-![screenshoot](./CapturadeDBeaver.png)
+![screenshoot](./img.png)
